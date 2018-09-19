@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.currency-exchange {
+  width: 300px;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  box-shadow: 1px 2px 4px #ccc;
+  padding: 1em;
+  margin: 1.5em auto;
+}
+
+.btn {
+  border: 0;
+  height: 30px;
+  width: 50px;
+  color: #fff;
+  margin: 0 .5em;
+  border-radius: 2px;
+  box-shadow: 0px 3px 0 #787878;
+}
+.btn:active {
+    position: relative;
+    top: 3px;
+    background: #ccc;
+    box-shadow: none;
+  }
+
+.increase {
+  background: #528752;
+}
+
+.decrease {
+  background: #ff5b5b;
+}
